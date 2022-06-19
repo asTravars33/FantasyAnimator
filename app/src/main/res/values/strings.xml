@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JWLab04b</string>
+    <string name="title">Fantasy Animator</string>
+    <string-array name="random_names">
+        <item>Bellamy</item>
+        <item>Finley</item>
+        <item>Max</item>
+        <item>Emerson</item>
+        <item>Sammy</item>
+        <item>Allie</item>
+        <item>Tatum</item>
+        <item>Cleo</item>
+        <item>Jodie</item>
+        <item>Kris</item>
+        <item>Rene</item>
+    </string-array>
+</resources>
